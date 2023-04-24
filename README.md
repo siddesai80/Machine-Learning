@@ -2,7 +2,7 @@
 
 This repository contains code for classifying drugs using different Machine Learning Techniques.
 
-This project was created as part of the coursework for module 7072CEM Machine Learning for Coventry University. Any use of the code needs to be cited appropriately.
+This project was created as part of the coursework for module 7072CEM Machine Learning for [Coventry University](https://www.coventry.ac.uk/course-structure/pg/eec/data-science-and-computational-intelligence-msc/). Any use of the code needs to be cited appropriately.
 
 ## Usage
 
